@@ -1,3 +1,9 @@
+# thesisdownUNIL
+
+This is a version of R package `thesisdown`, customized for UNIL (Université de Lausanne).
+
+Experimental!
+
 # thesisdown
 
 This project was inspired by the [bookdown](https://github.com/rstudio/bookdown) package and is an updated version of my Senior Thesis template in the `reedtemplates` package [here](https://github.com/ismayc/reedtemplates). It was originally designed to only work with the Reed College LaTeX template, but has since been adapted to work with many different institutions by many different individuals. Check out the **Customizing thesisdown to your institution** section below for examples.
