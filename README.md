@@ -2,7 +2,9 @@
 
 This is a version of R package `thesisdown`, customized for UNIL (Université de Lausanne).
 
-Experimental!
+It will support LaTeX output, and HTML is a bonus.
+
+**Experimental**!
 
 # thesisdown
 

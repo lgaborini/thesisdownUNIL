@@ -6,6 +6,9 @@
 \usage{
 thesis_gitbook(...)
 }
+\arguments{
+\item{...}{arguments to \code{\link[bookdown:gitbook]{bookdown::gitbook()}}}
+}
 \value{
 A gitbook webpage
 }
@@ -15,7 +18,9 @@ to specify the creation of a webpage version of the thesis.
 }
 \examples{
 \dontrun{
- output: thesisdown::thesis_gitbook
+ output: thesisdownUNIL::thesis_gitbook
 }
 }
-
+\seealso{
+\code{\link[thesisdown:thesis_gitbook]{thesisdown::thesis_gitbook()}}, \code{\link[bookdown:gitbook]{bookdown::gitbook()}}
+}

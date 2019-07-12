@@ -6,6 +6,9 @@
 \usage{
 thesis_word(...)
 }
+\arguments{
+\item{...}{arguments to \code{\link[bookdown:word_document2]{bookdown::word_document2()}}}
+}
 \value{
 A Word Document based on (hopefully soon, but not currently)
 the Reed Senior Thesis Word template
@@ -16,7 +19,6 @@ to specify the creation of a Microsoft Word version of the thesis.
 }
 \examples{
 \dontrun{
- output: thesisdown::thesis_word
+ output: thesisdownUNIL::thesis_word
 }
 }
-
